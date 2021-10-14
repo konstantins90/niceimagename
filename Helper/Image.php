@@ -86,7 +86,7 @@ class Image extends \Magento\Framework\App\Helper\AbstractHelper
                 $newFilenameExt = $newFilename . '_' . $i . '.' . $pathinfo['extension'];
                 $newFilenameWithPath = $path . $newFilenameExt;
                 $i++;
-            } {
+            } else {
                 break;
             }
         }
