@@ -2,7 +2,7 @@
   "name": "konstantins90/niceimagename",
   "description": "SEO Bildernamen von Delta Media",
   "type": "magento2-module",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "license": "MIT",
   "autoload": {
     "files": [
