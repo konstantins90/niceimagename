@@ -3,6 +3,7 @@
   "description": "SEO Bildernamen von Delta Media",
   "type": "magento2-module",
   "version": "1.0.6",
+  "license": "MIT",
   "autoload": {
     "files": [
       "registration.php"
